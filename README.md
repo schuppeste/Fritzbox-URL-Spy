@@ -4,3 +4,4 @@ Its possible and Security confuse to spy all Webtraffic on Fritzbox via Stream, 
 Small Java Application for Fritzbox OS 4.xx
 
 Authentication and Trafficstream Access.
+![Alt text](https://github.com/schuppeste/Fritzbox-URL-Spy/blob/master/fritzbox%20example.jpg "Optional Title")
